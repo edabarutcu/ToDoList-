@@ -37,7 +37,7 @@
 		0A93CAFB274EF1A8004D0088 /* EditToDoInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A93CAFA274EF1A8004D0088 /* EditToDoInteractor.swift */; };
 		0A93CAFD274EF1BD004D0088 /* EditToDoPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A93CAFC274EF1BD004D0088 /* EditToDoPresenter.swift */; };
 		0A93CAFF274EF1D6004D0088 /* EditToDoRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A93CAFE274EF1D6004D0088 /* EditToDoRouter.swift */; };
-		DBF94D16276DE4860096D20F /* FredokaOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DBF94D15276DE4860096D20F /* FredokaOne-Regular.ttf */; };
+		DBF94D18276E45460096D20F /* FredokaOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DBF94D17276E45460096D20F /* FredokaOne-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -104,7 +104,7 @@
 		0A93CAFE274EF1D6004D0088 /* EditToDoRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditToDoRouter.swift; sourceTree = "<group>"; };
 		DB80EA6D276C693000A67C55 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		DB80EA6E276C693800A67C55 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
-		DBF94D15276DE4860096D20F /* FredokaOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "FredokaOne-Regular.ttf"; path = "../../../../GitHup/yapilacaklarListesi/ToDo/Fonts/FredokaOne-Regular.ttf"; sourceTree = "<group>"; };
+		DBF94D17276E45460096D20F /* FredokaOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FredokaOne-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,7 +143,7 @@
 		0A0CF4782751D29500CB5795 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				DBF94D15276DE4860096D20F /* FredokaOne-Regular.ttf */,
+				DBF94D17276E45460096D20F /* FredokaOne-Regular.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -516,7 +516,7 @@
 				0A528F23274E71EB00BC95AD /* ToDo.sqlite in Resources */,
 				0A528EFB274E71B900BC95AD /* Assets.xcassets in Resources */,
 				0A528EF9274E71B700BC95AD /* Main.storyboard in Resources */,
-				DBF94D16276DE4860096D20F /* FredokaOne-Regular.ttf in Resources */,
+				DBF94D18276E45460096D20F /* FredokaOne-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
